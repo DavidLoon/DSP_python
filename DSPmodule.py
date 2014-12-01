@@ -1,4 +1,5 @@
 # function which standardizes list or array to zero mean and unit variance
+
 import numpy as np
 def standardize(x):
 
